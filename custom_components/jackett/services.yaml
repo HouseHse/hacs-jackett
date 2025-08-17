@@ -1,0 +1,7 @@
+start:
+  description: "Запустить Jackett и добавить дефолтные трекеры"
+  fields: {}
+
+stop:
+  description: "Остановить Jackett контейнер"
+  fields: {}
