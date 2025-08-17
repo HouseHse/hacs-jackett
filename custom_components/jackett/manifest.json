@@ -1,0 +1,10 @@
+{
+  "domain": "jackett",
+  "name": "Jackett Integration for HAOS",
+  "version": "2.1.0",
+  "documentation": "https://github.com/HouseHse/hacs-jackett",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@HouseHse"],
+  "iot_class": "local_polling"
+}
