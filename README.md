@@ -12,7 +12,7 @@
 ## Установка
 1. Установите [HACS](https://hacs.xyz/).
 2. В HACS → Integrations → Custom repositories добавьте:
-   https://github.com/yourusername/hacs-jackett
+   https://github.com/HouseHse/hacs-jackett
 3. Установите интеграцию **Jackett**.
 4. Через **Developer Tools → Services** можно вызвать:
    - `jackett.start` → запустить Jackett
